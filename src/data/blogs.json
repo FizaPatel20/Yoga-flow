@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Benefits of Morning Yoga",
+    "img": "https://images.unsplash.com/photo-1603983616619-faf118d6c374?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fG1lZGl0YXRpb258ZW58MHwwfDB8fHwy"
+  },
+  {
+    "id": 2,
+    "title": "Meditation for Beginners",
+    "img": "https://images.unsplash.com/photo-1536007164800-b7f11331f35c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fG1lZGl0YXRpb258ZW58MHwwfDB8fHwy"
+  },
+  {
+    "id": 3,
+    "title": "Yoga for Stress Relief",
+    "img": "https://images.unsplash.com/photo-1602192509154-0b900ee1f851?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
