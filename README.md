@@ -1,1 +1,1 @@
-The project is still working 
+A project is not yet complete and is currently underway.
