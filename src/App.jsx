@@ -12,6 +12,7 @@ import Contact from "./pages/Contact";
 // Pages (separate routes)
 import Login from "./pages/Login";
 import Register from "./pages/Register";
+import BlogDetails from "./pages/BlogDetails"; // ✅ NEW import
 
 function App() {
   return (
@@ -19,7 +20,7 @@ function App() {
       <Navbar />
 
       <Routes>
-        {/* Scrollable single-page */}
+        {/* Scrollable single-page layout */}
         <Route
           path="/"
           element={
@@ -37,6 +38,9 @@ function App() {
         {/* Separate pages */}
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
+
+        {/* ✅ NEW: Blog details page (opens full blog content) */}
+        <Route path="/blog/:id" element={<BlogDetails />} />
       </Routes>
     </div>
   );
